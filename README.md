@@ -32,15 +32,15 @@ This project is a **SQL-based Personal Finance Tracker** designed to manage inco
 | Savings Goal Progress    | Show the % progress towards savings goals    |  
 
 ---
-##🧠 Skills Gained
-**SQL Schema Design (Normalization, Foreign Keys)
-**Writing meaningful queries using:
-**JOIN
-**GROUP BY
-**ORDER BY
-**IFNULL, ROUND, LIMIT
-**Data-driven thinking with real-world logic
+## 🧠 Skills Gained
 
+- SQL Schema Design (Normalization, Foreign Keys)  
+- Writing meaningful queries using:
+  - `JOIN`
+  - `GROUP BY`
+  - `ORDER BY`
+  - `IFNULL`, `ROUND`, `LIMIT`
+- Data-driven thinking with real-world logic
 ## 📎 How to Run
 
 1. Clone this repo  
